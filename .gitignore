@@ -119,6 +119,7 @@ GitHub.sublime-settings
 __pycache__/
 *.pyc
 __localcode
+images_temp
 venv
 env
 .DS_Store
